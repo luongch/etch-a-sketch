@@ -1,0 +1,21 @@
+.square {
+    border: 1px solid black;
+    flex: 1;
+    padding: auto;
+}
+
+.row {
+    display: flex;
+    flex: 1;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 500px;
+}
+
+.changed {
+    background-color: plum;
+}
